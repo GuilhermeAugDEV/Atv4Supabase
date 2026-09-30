@@ -14,8 +14,6 @@ livros-app/
 │   └── types/
 │       └── Livro.ts        # Type que espelha a tabela do banco
 ├── banco.sql              # SQL: criação da tabela + políticas RLS + inserts
-├── .env.example            # Variáveis em branco (este vai para o Git)
-├── .gitignore              # Garante que .env NÃO vai para o Git
 └── README.md
 ```
 
